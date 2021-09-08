@@ -1,0 +1,71 @@
+---
+name: Generate news
+
+on:
+  schedule:
+    - cron: "50 7 * * *"
+  workflow_dispatch:
+
+
+jobs:
+  prepare:
+    runs-on: ubuntu-20.04
+    env:
+      NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+    timeout-minutes: 30
+
+    services:
+      translation:
+        image: libretranslate/libretranslate
+        ports:
+          - 5000:5000
+        env:
+          LT_LOAD_ONLY: "en,de"
+          LT_FRONTEND_LANGUAGE_TARGET: "en"
+          LT_FRONTEND_LANGUAGE_SOURCE: "de"
+
+    steps:
+      - id: checkout-repo
+        name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          submodules: false
+          clean: true
+
+      - id: setup-go-env
+        name: Setup Go environment
+        uses: actions/setup-go@v2
+        with:
+          go-version: "1.16.4"
+
+      - id: setup-go-cache
+        name: Setup cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/go/pkg/mod
+            ~/.cache/go-build
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-
+
+      - id: get-deps
+        name: Get dependencies
+        run: go get -v -t -d ./...
+
+      - id: build-module
+        name: Build the orchestrator module
+        run: go build -v cmd/orchestrator/main.go
+
+      - id: run-service
+        name: Get news
+        run: ./main
+
+      - id: commit-file
+        name: Commit the generated file
+        run: |
+          git config user.name "Github Actions Bot"
+          git config user.email "<>"
+          git add data/*
+          git commit -m "News generated for $(date +"%Y-%m-%d")"

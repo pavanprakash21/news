@@ -1,8 +1,8 @@
 import { PathsEntity } from "../../types";
 
 type params = {
-  news: string
-}
+  news: string;
+};
 
 export const Navigation = (paramsObj: PathsEntity) => {
   // @ts-ignore
@@ -11,7 +11,9 @@ export const Navigation = (paramsObj: PathsEntity) => {
   return (
     // @ts-ignore https://github.com/microsoft/TypeScript/issues/44418#issuecomment-910551704
     <a href={`${params.news}`} key={params.news}>
-      {params.news}
+      {new Intl.DateTimeFormat("en-GB", {
+        dateStyle: "short",
+      }).format(new Date(params.news))}
       {/* @ts-ignore */}
     </a>
   );

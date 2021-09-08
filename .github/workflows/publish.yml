@@ -1,5 +1,5 @@
 ---
-name: Build and Deploy
+name: Publish static website
 on:
   schedule:
     - cron: "50 7 * * *"

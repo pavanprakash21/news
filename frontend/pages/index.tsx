@@ -1,18 +1,13 @@
 import type { NextPage } from "next";
+import { GetStaticProps } from "next";
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
 import { getFilesFromDataDir, generateRoutes } from "../utils";
-// import { Navigation } from "../components/Navigation";
+import { Navigation } from "../components/Navigation";
 
-// const files = async () => {
-//   const content = await getFilesFromDataDir();
-//   console.log(content)
-//   return content;
-// };
+import { PathsEntity } from "../types";
 
-// const paths = generateRoutes(files);
-
-const Home: NextPage = () => {
+const Home: NextPage = ({paths}: any) => {
   return (
     <div className={styles.container}>
       <Head>
@@ -23,12 +18,26 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Welcome to News!</h1>
-        {/* {paths && paths.map((path) => {
-          return <Navigation path={path} key={path.params.news} />
-        })} */}
+        {
+          // @ts-ignore
+          paths.map((params: PathsEntity, index: number) => {
+            // @ts-ignore
+            return <Navigation params={params} key={index} />;
+          })
+        }
       </main>
     </div>
   );
+};
+
+export const getStaticProps: GetStaticProps = async ({ params }) => {
+  const files = (await getFilesFromDataDir()) as string[];
+  const paths = generateRoutes(files);
+
+  return {
+    props: { paths },
+    revalidate: 1,
+  };
 };
 
 export default Home;

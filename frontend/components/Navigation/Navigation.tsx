@@ -10,7 +10,7 @@ export const Navigation = (paramsObj: PathsEntity) => {
 
   return (
     // @ts-ignore https://github.com/microsoft/TypeScript/issues/44418#issuecomment-910551704
-    <a href={`news/${params.news}`} key={params.news}>
+    <a href={`${params.news}`} key={params.news}>
       {params.news}
       {/* @ts-ignore */}
     </a>

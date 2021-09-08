@@ -5,7 +5,7 @@ export const Navigation = (paramsObj: PathsEntity) => {
   const params = paramsObj.params.params;
 
   return (
-    <a href={`/${params.news}`} key={params.news}>
+    <a href={`news/${params.news}`} key={params.news}>
       {params.news}
     </a>
   );

@@ -1,15 +1,21 @@
-import { ArticlesEntity } from '../../types'
+import { ArticlesEntity } from "../../types";
 
 export const Article = (articleObj: ArticlesEntity) => {
   // @ts-ignore
   const article = articleObj.article;
   return (
-    <div style={{display: 'flex', flexDirection: 'column', marginBottom: '1em'}}>
-      <a href={article.url}>
-        <h4>{article.title}</h4>
-      </a>
-      <h5>{article.description}</h5>
-      <p>{article.content}</p>
+    <div
+      style={{ display: "flex", flexDirection: "column", marginBottom: "1em" }}
+    >
+      <details>
+        <summary>
+          <a href={article.url}>
+            <h4>{article.title}</h4>
+          </a>
+        </summary>
+        <h5>{article.description}</h5>
+        <p>{article.content}</p>
+      </details>
       <h6>
         {new Intl.DateTimeFormat("en-GB", {
           dateStyle: "short",
@@ -18,4 +24,4 @@ export const Article = (articleObj: ArticlesEntity) => {
       </h6>
     </div>
   );
-}
+};

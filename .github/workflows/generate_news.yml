@@ -52,7 +52,9 @@ jobs:
 
       - id: get-deps
         name: Get dependencies
-        run: go get -v -t -d ./...
+        run: |
+          go get github.com/gorilla/mux
+          go get github.com/richarddes/newsapi-golang
 
       - id: build-module
         name: Build the orchestrator module

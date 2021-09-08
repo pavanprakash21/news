@@ -32,3 +32,12 @@ jobs:
           BRANCH: gh-pages
           FOLDER: frontend/out
           CLEAN: true
+
+      - name: Push to mobile
+        run: |
+          t="News published"
+          m="Check it out here https://pavanprakash21.github.io/news/"
+          curl -X POST \
+            -H "Content-type: application/x-www-form-urlencoded" \
+            -d "token=${{secrets.PUSHER_TOKEN_KEY}}&user=${secrets.PUSHER_USER_KEY}&device=iphone-xr&title=$t&message=$m" \
+            'https://api.pushover.net/1/messages.json'

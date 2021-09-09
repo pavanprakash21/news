@@ -8,6 +8,9 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    env:
+      PUSHER_TOKEN_KEY: ${{ secrets.PUSHER_TOKEN_KEY }}
+      PUSHER_USER_KEY: ${{ secrets.PUSHER_USER_KEY }}
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -39,5 +42,5 @@ jobs:
           m="Check it out here https://pavanprakash21.github.io/news/"
           curl -X POST \
             -H "Content-type: application/x-www-form-urlencoded" \
-            -d "token=${{secrets.PUSHER_TOKEN_KEY}}&user=${secrets.PUSHER_USER_KEY}&device=iphone-xr&title=$t&message=$m" \
+            -d "token=${{secrets.PUSHER_TOKEN_KEY}}&user=${{secrets.PUSHER_USER_KEY}}&device=iphone-xr&title=$t&message=$m" \
             'https://api.pushover.net/1/messages.json'

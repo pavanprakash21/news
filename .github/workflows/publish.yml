@@ -2,7 +2,7 @@
 name: Publish static website
 on:
   schedule:
-    - cron: "50 7 * * *"
+    - cron: "00 8 * * *"
   workflow_dispatch:
 
 jobs:

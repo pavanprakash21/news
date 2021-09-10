@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"os"
 	"time"
@@ -11,6 +12,7 @@ import (
 	"net/http"
 	"sort"
 
+	"github.com/BurntSushi/toml"
 	concurrently "github.com/pavanprakash21/news/pkg/concurrently"
 	"github.com/pavanprakash21/news/pkg/types"
 )
@@ -31,15 +33,46 @@ type finalData struct {
 	Data data `json:"data"`
 }
 
+type tomlConfig struct {
+	News newsApi
+}
+
+type newsApi struct {
+	Headlines  []string
+	Everything []string
+	List       []string
+}
+
 func main() {
-	res := concurrently.MakeRequests(NewsLinks, 4)
+	var config tomlConfig
+	if _, err := toml.DecodeFile("config.toml", &config); err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	var newsLinkArrayLen int = len(config.News.Everything) + len(config.News.Headlines)
+
+	newsLinks := make([]string, newsLinkArrayLen)
+
+	for idx := range config.News.Headlines {
+		newsLinks = append(newsLinks, "https://newsapi.org/v2/top-headlines?country="+config.News.Headlines[idx]+"&apiKey="+os.Getenv("NEWS_API_KEY"))
+	}
+
+	for idx := range config.News.Everything {
+		newsLinks = append(newsLinks, "https://newsapi.org/v2/everything?q="+config.News.Everything[idx]+"&apiKey="+os.Getenv("NEWS_API_KEY"))
+	}
+
+	newsTopics := config.News.List
+	newsLinks = removeEmptyStrings(newsLinks)
+
+	res := concurrently.MakeRequests(newsLinks, 4)
 
 	for idx := range res {
 		if idx == 1 || idx == 3 {
 			articles := res[idx].Articles
 			res[idx].Articles = translated_articles(articles, 8)
 		}
-		res[idx].Topic = NewsTopics[idx]
+		res[idx].Topic = newsTopics[idx]
 	}
 
 	data := data{res}
@@ -173,4 +206,14 @@ func panicIf(err error) {
 	if err != nil {
 		log.Fatal(err)
 	}
+}
+
+func removeEmptyStrings(s []string) []string {
+	var r []string
+	for _, str := range s {
+		if str != "" {
+			r = append(r, str)
+		}
+	}
+	return r
 }

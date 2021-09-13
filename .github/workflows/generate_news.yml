@@ -57,6 +57,7 @@ jobs:
           go get github.com/gorilla/mux
           go get github.com/richarddes/newsapi-golang
           go get github.com/BurntSushi/toml
+          go get github.com/LordotU/go-fixerio
 
       - id: build-module
         name: Build the orchestrator module

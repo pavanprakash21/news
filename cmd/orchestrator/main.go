@@ -13,7 +13,8 @@ import (
 	"sort"
 
 	"github.com/BurntSushi/toml"
-	concurrently "github.com/pavanprakash21/news/pkg/concurrently"
+	gofixerio "github.com/LordotU/go-fixerio"
+	"github.com/pavanprakash21/news/pkg/concurrently"
 	"github.com/pavanprakash21/news/pkg/types"
 )
 
@@ -30,7 +31,8 @@ type data struct {
 	News []types.NewsResult `json:"news"`
 }
 type finalData struct {
-	Data data `json:"data"`
+	Data           data                      `json:"data"`
+	ExchangeResult *gofixerio.ResponseLatest `json:"exchange_result"`
 }
 
 type tomlConfig struct {
@@ -75,8 +77,16 @@ func main() {
 		res[idx].Topic = newsTopics[idx]
 	}
 
+	fixerio, _ := gofixerio.New(os.Getenv("FIXER_API_KEY"), "EUR", false)
+
+	currenciesToConvert := []string{"INR", "BTC"}
+
+	latestRates, err := fixerio.GetLatest(currenciesToConvert)
+
+	panicIf(err)
+
 	data := data{res}
-	finalResp := finalData{data}
+	finalResp := finalData{data, latestRates}
 
 	body, err := json.MarshalIndent(finalResp, "", "  ")
 	panicIf(err)

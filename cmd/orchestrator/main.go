@@ -73,6 +73,9 @@ func main() {
 		if idx == 1 || idx == 3 {
 			articles := res[idx].Articles
 			res[idx].Articles = translated_articles(articles, 8)
+			sort.Slice(res[idx].Articles, func(i, j int) bool {
+				return res[idx].Articles[i].Publishedat.After(res[idx].Articles[j].Publishedat)
+			})
 		}
 		res[idx].Topic = newsTopics[idx]
 	}

@@ -1,15 +1,13 @@
 import { GetStaticPaths, GetStaticProps } from "next";
 import Head from "next/head";
 
-import { Navigation } from "../components/Navigation";
-
 import {
   readJsonFromFile,
   getFilesFromDataDir,
   generateRoutes,
 } from "../utils";
 
-import { NewsProps, PathsEntity } from "../types";
+import { NewsProps } from "../types";
 import { Article } from "../components/Article/Article";
 
 const News = ({ news, paths }: NewsProps) => {

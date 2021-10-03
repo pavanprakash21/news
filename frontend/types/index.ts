@@ -1,5 +1,5 @@
-export type NewsProps = {
-  news: News;
+export type ResultProps = {
+  result: Result;
   paths: Paths;
 };
 
@@ -7,8 +7,9 @@ export type PathsEntity = {
   params: Params;
 };
 
-type News = {
+type Result = {
   data: Data;
+  exchange_result: ExchangeResult;
 };
 
 type Data = {
@@ -41,7 +42,18 @@ type Paths = {
   paths: Array<PathsEntity>;
 };
 
-
 type Params = {
   news: string;
 };
+
+export type ExchangeResult = {
+  success: boolean;
+  timestamp: number;
+  base: string;
+  date: string;
+  rates: Rates
+};
+
+export type Rates = {
+  [key: string]: number
+}

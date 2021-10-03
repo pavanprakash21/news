@@ -57,3 +57,8 @@ export type ExchangeResult = {
 export type Rates = {
   [key: string]: number
 }
+
+export type ExchangeData = {
+  rates: Rates;
+  date: string;
+};

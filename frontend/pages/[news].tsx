@@ -33,7 +33,7 @@ const News = ({ result, paths }: ResultProps) => {
               </a>
             );
           })}
-          <Link href="/exchange-rate-charts"><a className="text-gray-500 text-sm sm:text-base line-clamp-3 px-3">Exchange Rate Charts</a></Link>
+          <Link href="/news/exchange-rate-charts"><a className="text-gray-500 text-sm sm:text-base line-clamp-3 px-3">Exchange Rate Charts</a></Link>
         </div>
       </nav>
 

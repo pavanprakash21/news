@@ -1,7 +1,7 @@
 import fs from "fs";
 import util from "util";
 
-import {ExchangeData} from '../types'
+import { ExchangeData } from "../types";
 
 const DATA_FOLDER = "../data";
 
@@ -46,12 +46,12 @@ const exchangeResultData = async (file: string) => {
   const exchange_result = fileContent["exchange_result"] || {};
   const exchangeData: ExchangeData = {
     rates: exchange_result["rates"],
-    date: smallData(exchange_result["date"]),
+    date: smallDate(exchange_result["date"]),
   };
   return exchangeData;
 };
 
-const smallData = (date: string) => {
-  const dateParts = date.split('-')
-  return `${dateParts[2]}/${dateParts[1]}`
-}
+const smallDate = (date: string) => {
+  const dateParts = date.split("-");
+  return `${dateParts[2]}/${dateParts[1]}`;
+};

@@ -3,7 +3,7 @@ import {ExchangeResult as ExchangeResultProp, Rates} from '../../types'
 export const ExchangeResult = (result: ExchangeResultProp) => {
   // @ts-ignore
   result = result.result;
-  if (!result.success) {
+  if (!result || !result?.success) {
     return(
       <h3>Exchange Rates couldn&apos;t be determined for today</h3>
     )

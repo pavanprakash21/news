@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fexchange-rate-charts","\u002F","\u002F[news]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

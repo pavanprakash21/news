@@ -32,7 +32,7 @@ const Home: NextPage = ({paths}: any) => {
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const files = (await getFilesFromDataDir()) as string[];
-  const paths = generateRoutes(files);
+  const paths = generateRoutes(files).reverse();
 
   return {
     props: { paths },

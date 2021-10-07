@@ -20,7 +20,8 @@ jobs:
 
       - id: move-files
         name: Move files to archive
-        run: cd data && find . -mtime +15 | xargs mv -t archive && cd ..
+        run: |
+          cd data && find . -mtime +15 -exec mv '{}' ./archive \ && cd ..
 
       - id: commit-files
         name: Commit and push changes

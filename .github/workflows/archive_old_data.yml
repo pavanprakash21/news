@@ -1,0 +1,31 @@
+---
+on:
+  schedule:
+    - cron: "40 7 * * *"
+  workflow_dispatch:
+
+jobs:
+  prepare:
+    runs-on: ubuntu-20.04
+    timeout-minutes: 30
+    steps:
+      - id: checkout-repo
+        name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          submodules: false
+          clean: true
+
+      - id: move-files
+        name: Move files to archive
+        run: cd data && find . -mtime +15 | xargs mv -t archive && cd ..
+
+      - id: commit-files
+        name: Commit and push changes
+        run: |
+          git config user.name "Github Actions Bot"
+          git config user.email "<>"
+          git add data/*
+          git commit -m "Archived data older than $(date --date="15 days ago" +"%Y-%m-%d")"
+          git push origin main

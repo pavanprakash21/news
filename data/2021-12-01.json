@@ -1,0 +1,1080 @@
+{
+  "data": {
+    "news": [
+      {
+        "status": "ok",
+        "topic": "India",
+        "articles": [
+          {
+            "source": {
+              "id": "",
+              "name": "NDTV News"
+            },
+            "author": "",
+            "title": "No Farmer Death Data During Protests, So No Question Of Aid: Government - NDTV",
+            "description": "No data on farmers' deaths during protests, hence question of financial assistance doesn't arise: government to parliament",
+            "url": "https://www.ndtv.com/india-news/no-data-on-farmers-deaths-during-protests-hence-question-of-financial-assistance-doesnt-arise-government-to-parliament-2631529",
+            "urlToImage": "https://c.ndtvimg.com/2020-12/0sk5pp9g_farmers-protest-delhi-singhu-border-_625x300_01_December_20.jpg",
+            "publishedAt": "2021-12-01T06:29:00Z",
+            "content": "Winter Session: India saw a wave of farmer protests over the last year. (File)\r\nNew Delhi: The government has \"no record\" of the deaths of farmers who were protesting the three contentious laws - tha… [+2279 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "NDTV News"
+            },
+            "author": "",
+            "title": "Coronavirus: Covid Shots Likely Protect From Worst of Omicron, Says BioNTech CEO - NDTV",
+            "description": "The current generation of Covid-19 vaccines probably will still protect against severe disease in people infected by the omicron variant, BioNTech SE Chief Executive Officer Ugur Sahin said.",
+            "url": "https://www.ndtv.com/india-news/coronavirus-covid-shots-likely-protect-from-worst-of-omicron-says-biontech-ceo-2631453",
+            "urlToImage": "https://c.ndtvimg.com/2021-12/mu4jvq3o_biontech-se-chief-executive-officer-ugur-sahin-bloomberg_625x300_01_December_21.jpg",
+            "publishedAt": "2021-12-01T06:19:00Z",
+            "content": "The comments from BioNTech CEO add to a growing range of views from vaccine developers.\r\nThe current generation of Covid-19 vaccines probably will still protect against severe disease in people infec… [+2451 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "NDTV News"
+            },
+            "author": "",
+            "title": "\"Goa, You're Better Than This\": Trinamool As BJP's Ex-Ally Picks Congress - NDTV",
+            "description": "The Congress's alliance in Goa with a former BJP ally ahead of polls next year has drawn a trenchant attack from a leader of the Trinamool Congress, which had pursued the party for a collaboration.",
+            "url": "https://www.ndtv.com/india-news/goa-assembly-elections-trinamool-congress-as-bjps-ex-ally-picks-congress-goa-youre-better-than-this-2631574",
+            "urlToImage": "https://c.ndtvimg.com/2021-11/9j58ucc8_goa-forward-party_625x300_30_November_21.jpg",
+            "publishedAt": "2021-12-01T06:15:47Z",
+            "content": "Vijay Sardesai, Vinod Palyekar, and Prasad Shashikant Gaonkar met Rahul Gandhi on Tuesday.\r\nNew Delhi: The Congress's alliance in Goa with a former BJP ally ahead of polls next year has drawn a trenc… [+3281 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "NDTV News"
+            },
+            "author": "Jagmeet Singh",
+            "title": "Realme GT 2 Pro, Xiaomi 12, Moto Edge X30 to Be the First Phones Powered by Snapdragon 8 Gen 1 - NDTV",
+            "description": "Realme GT 2 Pro, Xiaomi 12, and Moto Edge X30 are confirmed to be among the first phones to come with the newly launched Snapdragon 8 Gen 1 SoC. The chip was announced by Qualcomm at the Snapdragon Tech Summit earlier on Wednesday.",
+            "url": "https://gadgets.ndtv.com/mobiles/news/realme-gt-2-pro-xiaomi-12-moto-edge-x30-snapdragon-8-gen-1-launch-date-december-9-qualcomm-2631558",
+            "urlToImage": "https://i.gadgets360cdn.com/large/realme_gt_2_pro_image_1638337665066.jpg",
+            "publishedAt": "2021-12-01T06:00:15Z",
+            "content": "Realme GT 2 Pro, Xiaomi 12, and Moto Edge X30 are the first phones confirmed to come with Qualcomm's newly launched Snapdragon 8 Gen 1 SoC. While Realme and Xiaomi have not revealed the exact launch … [+4055 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The New Indian Express"
+            },
+            "author": "PTI",
+            "title": "Covishield's effectiveness in fully vaccinated individuals 63 per cent during second wave: Study - The New Indian Express",
+            "description": "It was published in 'The Lancet Infectious Diseases' journal and it included a comparison between 2,379 cases of confirmed SARS-CoV-2 infection and 1,981 controls.",
+            "url": "https://www.newindianexpress.com/nation/2021/dec/01/covishields-effectiveness-in-fully-vaccinated-individuals-63-per-cent-during-secondwave-study-2390381.html",
+            "urlToImage": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/12/1/w600X390/covidshield-PTI_1_2.jpg",
+            "publishedAt": "2021-12-01T05:59:00Z",
+            "content": "NEW DELHI: The vaccine effectiveness of Covishield against COVID-19 infection in fully vaccinated individuals was found to be 63 per cent between April and May when the second wave was at its peak in… [+1345 chars]"
+          },
+          {
+            "source": {
+              "id": "google-news",
+              "name": "Google News"
+            },
+            "author": "",
+            "title": "Share Market LIVE: Sensex extends gains, Nifty touches 17200, bulls to return if index crosses 17325 - Financial Express",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMilgFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9tYXJrZXQvc2hhcmUtbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy1zZW5zZXgtbmlmdHktcnVwZWUtdnMtZG9sbGFyLWluZGlhLWVjb25vbXktZ2RwLWdyb3d0aC1kZWNlbWJlci0xLTIwMjEvMjM3OTUzNS_SAZsBaHR0cHM6Ly93d3cuZmluYW5jaWFsZXhwcmVzcy5jb20vbWFya2V0L3NoYXJlLW1hcmtldC10b2RheS1saXZlLXVwZGF0ZXMtc2Vuc2V4LW5pZnR5LXJ1cGVlLXZzLWRvbGxhci1pbmRpYS1lY29ub215LWdkcC1ncm93dGgtZGVjZW1iZXItMS0yMDIxLzIzNzk1MzUvbGl0ZS8?oc=5",
+            "urlToImage": "",
+            "publishedAt": "2021-12-01T05:46:34Z",
+            "content": ""
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "NDTV News"
+            },
+            "author": "",
+            "title": "'Omicron' Variant Could Outcompete Delta, Says South African Disease Expert - NDTV",
+            "description": "The Omicron coronavirus variant detected in southern Africa could be the most likely candidate to displace the highly contagious Delta variant, the director of South Africa's communicable disease institute said on Tuesday.",
+            "url": "https://www.ndtv.com/world-news/omicron-variant-could-outcompete-delta-says-south-african-disease-expert-2631537",
+            "urlToImage": "https://c.ndtvimg.com/2020-04/qr42vj5k_coronavirus-testing-generic-reuters_625x300_12_April_20.jpg",
+            "publishedAt": "2021-12-01T05:37:16Z",
+            "content": "Delta drove a third wave of infections in South Africa that peaked at more than 26,000 cases in July\r\nJohannesburg: The Omicron coronavirus variant detected in southern Africa could be the most likel… [+3162 chars]"
+          },
+          {
+            "source": {
+              "id": "google-news",
+              "name": "Google News"
+            },
+            "author": "",
+            "title": "Telugu film lyricist ‘Sirivennela’ Seetharama Sastry passes away - The Hindu",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy50aGVoaW5kdS5jb20vZW50ZXJ0YWlubWVudC9tb3ZpZXMvdGVsdWd1LWZpbG0tbHlyaWNpc3Qtc2lyaXZlbm5lbGEtc2VldGhhcmFtYS1zYXN0cnktcGFzc2VzLWF3YXkvYXJ0aWNsZTM3NzY5NTc3LmVjZdIBhQFodHRwczovL3d3dy50aGVoaW5kdS5jb20vZW50ZXJ0YWlubWVudC9tb3ZpZXMvdGVsdWd1LWZpbG0tbHlyaWNpc3Qtc2lyaXZlbm5lbGEtc2VldGhhcmFtYS1zYXN0cnktcGFzc2VzLWF3YXkvYXJ0aWNsZTM3NzY5NTc3LmVjZS9hbXAv?oc=5",
+            "urlToImage": "",
+            "publishedAt": "2021-12-01T05:24:52Z",
+            "content": ""
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Livelaw.in"
+            },
+            "author": "Sharmeen Hakim",
+            "title": "BREAKING : Bombay High Court Grants Default Bail To Sudha Bharadwaj In Bhima Koregaon Case; Refuses Bail... - Live Law",
+            "description": "The Bombay High Court on Wednesday granted default  bail to lawyer-activist Sudha  Bharadwaj in the...",
+            "url": "https://www.livelaw.in/top-stories/bombay-high-court-grants-default-bail-to-sudha-bharadwaj-in-bhima-koregaon-case-refuses-bail-to-8-other-accused-186679",
+            "urlToImage": "https://www.livelaw.in/h-upload/2020/07/01/377497-sudha-bharadwaj-and-bombay-hc.jpg",
+            "publishedAt": "2021-12-01T05:13:40Z",
+            "content": "The Bombay High Court on Wednesday granted default bail to lawyer-activist Sudha Bharadwaj in the 2018 Bhima Koregaon Elgar Parishad caste violence case.However, the Court rejected the bail applicati… [+4698 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Theweekendleader.com"
+            },
+            "author": "The Weekend Leader",
+            "title": "NASA aims to replace ISS with a commercial space station by 2030 - The Weekend Leader",
+            "description": "﻿The US space agency is planning to replace the International Space Station (ISS) with one or more commercial space stations by 2030.",
+            "url": "https://www.theweekendleader.com/Headlines/74743/nasa-aims-to-replace-iss-with-a-commercial-space-station-by-2030.html",
+            "urlToImage": "https://www.theweekendleader.com/admin/upload/01_12_2021_04_57_50_nasa.jpg?v=2021120106523967",
+            "publishedAt": "2021-12-01T04:59:03Z",
+            "content": "The US space agency is planning to replace the International Space Station (ISS) with one or more commercial space stations by 2030.\r\nNASA's auditing body, the Office of Audits, has produced a report… [+2245 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Moneycontrol"
+            },
+            "author": "",
+            "title": "COVID-19 | Maharashtra makes RT-PCR test compulsory for domestic travellers due to new Omicron variant - Moneycontrol.com",
+            "description": "The development comes after a new COVID-19 variant Omicron was detected in South Africa and declared a “variant of concern” by the World Health Organization.",
+            "url": "https://www.moneycontrol.com/news/india/covid-19-maharashtra-makes-rt-pcr-test-compulsory-for-domestic-travellers-due-to-new-omicron-variant-7779311.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/01/Bombay-airport-770x433.jpg",
+            "publishedAt": "2021-12-01T04:57:07Z",
+            "content": "The Government of Maharashtra, in an order dated November 30, has made it mandatory for intra-state travellers to either be fully vaccinated or hold valid RT-PCR tests and for inter-state travellers … [+2856 chars]"
+          },
+          {
+            "source": {
+              "id": "the-times-of-india",
+              "name": "The Times of India"
+            },
+            "author": "etimes.in",
+            "title": "Vicky Kaushal-Katrina Kaif wedding report: Bride and groom to be set up in royal suites worth a whopping Rs 7 lakh per night - Times of India",
+            "description": "ETimes has been the first to bring you updates of Katrina Kaif and Vicky Kaushal’s December wedding this year and n",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-katrina-kaif-wedding-bride-and-groom-to-be-set-up-in-royal-suites-worth-a-whopping-rs-7-lakh-per-night/articleshow/88022340.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-88022330,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-67494/88022330.jpg",
+            "publishedAt": "2021-12-01T04:51:00Z",
+            "content": "ETimes has been the first to bring you updates of Katrina Kaif and Vicky Kaushals December wedding this year and now reports suggest that the wedding preparations are going on in full swing at Six Se… [+1932 chars]"
+          },
+          {
+            "source": {
+              "id": "the-times-of-india",
+              "name": "The Times of India"
+            },
+            "author": "K Shriniwas Rao",
+            "title": "BCCI and CSA might have to reschedule India's tour of South Africa | Cricket News - Times of India",
+            "description": "Cricket News: With time running out and a number of plans yet to fall into place for India to fly to South Africa, the BCCI is left with no choice now but to sit ac",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-south-africa/bcci-and-csa-might-have-to-reschedule-indias-tour-of-south-africa/articleshow/88021754.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-88021731,width-1070,height-580,imgsize-91498,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-12-01T04:21:00Z",
+            "content": "BCCI puts team selection for South Africa tour on holdThe Indian cricket board (BCCI) has put a hold on the selection meeting for the upcoming tour of South Africa. TOI has learnt that the board is a… [+151 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Greater Kashmir"
+            },
+            "author": "GK Web Desk",
+            "title": "Pulwama gunfight: Jaish’s IED expert Yasir Parrey among slain militants, say police - Greater Kashmir",
+            "description": "",
+            "url": "https://www.greaterkashmir.com/kashmir/pulwama-gunfight-jaishs-ied-expert-yasir-parrey-among-slain-militants-say-police",
+            "urlToImage": "https://gumlet.assettype.com/greaterkashmir%2Fimport%2F2017%2F11%2F2017_11largeimg203_nov_2017_112908357.jpg?w=1200\u0026auto=format%2Ccompress\u0026ogImage=true",
+            "publishedAt": "2021-12-01T04:12:49Z",
+            "content": "Quoting IGP Kashmir, the Kashmir Police Zone wrote on Twitter, \" militant commander of outfit JeM Yasir Parray, an IED Expert \u0026amp; foreign militant Furqan neutralised. Both were involved in several … [+23 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Hindustan Times"
+            },
+            "author": "Malavika Murali",
+            "title": "Stalled bills to be tabled in Parliament today - Hindustan Times",
+            "description": "The Dam Safety Bill has also been on the agenda since Monday but could be discussed in the Rajya Sabha | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/stalled-bills-to-be-tabled-in-parliament-today-101638331839095.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/12/01/1600x900/e45bfefc-525b-11ec-b559-3222508970b2_1638331837992.jpg",
+            "publishedAt": "2021-12-01T04:10:38Z",
+            "content": "The Assisted Reproductive Technology (Regulations) Bill has been rescheduled for introduction in Parliament on Wednesday after Union health minister Mansukh Mandaviya was unable to table it on Monday… [+1176 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Hindustan Times"
+            },
+            "author": "hindustantimes.com",
+            "title": "US delegation expresses deep concerns over Afghans' abuses at Doha meet with Taliban - Hindustan Times",
+            "description": "The team, led by special representative for Afghanistan Thomas West, asked the Taliban to take necessary action to protect the rights of citizens in the war-torn nation, the US state department said. | World News",
+            "url": "https://www.hindustantimes.com/world-news/us-team-expresses-deep-concerns-over-afghans-abuses-at-doha-meet-with-taliban-101638330700198.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/12/01/1600x900/248b6f64-4706-11ec-9fdf-8b2d4410eb5f_1638330936694_1638330952619.png",
+            "publishedAt": "2021-12-01T03:57:05Z",
+            "content": "A delegation from the United States expressed deep concerns over alleged human rights abuses in Afghanistan during its meeting with Taliban representatives at Doha in Qatar.\r\nThe team, led by special… [+2185 chars]"
+          },
+          {
+            "source": {
+              "id": "google-news",
+              "name": "Google News"
+            },
+            "author": "",
+            "title": "Coronavirus live updates | Tightened rules for flyers from abroad from today - The Hindu",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9uZXdzL25hdGlvbmFsL2Nvcm9uYXZpcnVzLWxpdmUtdXBkYXRlcy1kZWNlbWJlci0xLTIwMjEvYXJ0aWNsZTM3NzgyNTczLmVjZdIBaGh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9uZXdzL25hdGlvbmFsL2Nvcm9uYXZpcnVzLWxpdmUtdXBkYXRlcy1kZWNlbWJlci0xLTIwMjEvYXJ0aWNsZTM3NzgyNTczLmVjZS9hbXAv?oc=5",
+            "urlToImage": "",
+            "publishedAt": "2021-12-01T03:45:00Z",
+            "content": ""
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Firstpost"
+            },
+            "author": "",
+            "title": "Indias new rules for international flyers kick in from today as new COVID-19 variant Omicron spreads - Firstpost",
+            "description": "Cases of Omicron, deemed as a 'variant of concern' by the World Health Organization, have been detected in countries across the globe — spanning from United Kingdom to Japan",
+            "url": "https://www.firstpost.com/health/indias-new-rules-for-international-flyers-kick-in-from-today-as-new-covid-19-variant-omicron-spreads-10176931.html",
+            "urlToImage": "https://images.firstpost.com/wp-content/uploads/2021/12/1airport.jpg",
+            "publishedAt": "2021-12-01T03:44:12Z",
+            "content": "Cases of Omicron, deemed as a 'variant of concern' by the World Health Organization, have been detected in countries across the globe spanning from United Kingdom to Japan\r\n In light of the rapidly s… [+3149 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Indian Express"
+            },
+            "author": "Lifestyle Desk",
+            "title": "World AIDS Day 2021: From transmission to prevention, all you need to know - The Indian Express",
+            "description": "Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening health condition caused by the human immunodeficiency virus (HIV) that interferes with the body's ability to fight infections",
+            "url": "https://indianexpress.com/article/lifestyle/health/world-aids-day-2021-theme-significance-symptoms-transmission-prevention-hiv-7648632/",
+            "urlToImage": "https://images.indianexpress.com/2021/11/world-aids-day-1200.jpg",
+            "publishedAt": "2021-12-01T03:40:53Z",
+            "content": "Every year, December 1 is observed as World AIDS Day across the globe to spread awareness about the disease and remember all those who lost their lives to it. It was first observed in 1988.The theme … [+3470 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "NDTV News"
+            },
+            "author": "NDTV Sports Desk",
+            "title": "IPL Retention: Full List Of Big Names Released By All Franchises Ahead Of IPL Mega Auction - NDTVSports.com",
+            "description": "A number of top cricketers have not been retained by their respective teams ahead of the IPL mega auction.",
+            "url": "https://sports.ndtv.com/cricket/ipl-retention-full-list-of-big-names-released-by-all-franchises-ahead-of-ipl-mega-auction-2631433",
+            "urlToImage": "https://c.ndtvimg.com/2021-12/g69pk2s_hardik-krunal-ipl_625x300_01_December_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+            "publishedAt": "2021-12-01T03:12:37Z",
+            "content": "A total of 27 cricketers, including eight overseas and four uncapped players, were retained by the existing eight franchises during the IPL retentions which took place on Tuesday. But a number of top… [+3711 chars]"
+          }
+        ]
+      },
+      {
+        "status": "ok",
+        "topic": "Austria",
+        "articles": [
+          {
+            "source": {
+              "id": "",
+              "name": "90minuten.at"
+            },
+            "author": "",
+            "title": "ÖFB-Damen celebrates protection against luxemburg - 90MINUTEN.AT",
+            "description": "the Women's National Team already celebrates the fourth in the group in the World Cup. (text: press release öbling)",
+            "url": "https://www.90minuten.at/de/red/presseschau/kurzmeldungen-vereine-verbaende-sportler/2021/dezember/oefb-damen-feiern-schuetzenfest/",
+            "urlToImage": "https://www.90minuten.at/images/redaktion/Gepa/Personen/Irene_Fuhrmann_Gepa-Pictures_b1b49_f_1280x720.jpg",
+            "publishedAt": "2021-12-01T05:52:00Z",
+            "content": "after the change in time, the Women's National Team is linked to the performance of the first half-time. Barbara Dunst continues the deadly after only three minutes, with a placed surplus in the corner... [+2184 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Krone.at"
+            },
+            "author": "Norman Schenz",
+            "title": "\"War only cycling\" - South Africa-Selfie: now speaks leo hillinger - Crown.at",
+            "description": "leo Hillingers South Africa-posting polarised. For the first time, the burgenländische weinbauer takes up: \"Why are only up to a wheel.\" ...",
+            "url": "https://www.krone.at/2569235",
+            "urlToImage": "https://imgl.krone.at/scaled/2567090/vc57840/og_image.jpg",
+            "publishedAt": "2021-12-01T05:02:00Z",
+            "content": "I have been saying about his stay in South Africa, I have heard about 20 hours of the day, along with ,2 minutes, 2 million and my own show... [+187 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Vorarlberg.orf.at"
+            },
+            "author": "ORF.at",
+            "title": "World AIDS Day Against Discrimination - ORF.at",
+            "description": "The World AIDS Day is at the forefront of equal rights and against discrimination against HIV potential in the company and in the special court. in Vorarlberg live around 240 people with HI-V...",
+            "url": "https://vorarlberg.orf.at/stories/3132403/",
+            "urlToImage": "https://ibs.orf.at/vbg?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2021%2F49%2F70%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F1160590_master_413370_welt_aids_tag_daksi01541_00_00_50_22.jpg%3Fs%3Da3966b1e8a33364bd8e175379d81f9e1ef0cb7f9",
+            "publishedAt": "2021-12-01T04:53:59Z",
+            "content": "Prearlberg's AIDS aid is a personal, telephone or e-mail to the HIV/AIDS, acne, sexually transmitted diseases, gender and partner: There are wide dangers... +[4200 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Kleine Zeitung"
+            },
+            "author": "",
+            "title": "dsn: Austria's new constitutional protection takes up its work today - small newspaper",
+            "description": "the direction of state security and intelligence service (dsn) should make correct what is going wrong in the Federal Office for Constitutional Protection (bwt). However, it is not yet complete.",
+            "url": "https://www.kleinezeitung.at/politik/innenpolitik/6068221/DSN_Oesterreichs-neuer-Verfassungsschutz-nimmt-heute-Arbeit-auf",
+            "urlToImage": "https://media.kleinezeitung.at/social_klz_paid/images/uploads_520/7/f/d/6068221/PK-INNENMINISTERIUM-ANL-PRSENTATION-NEUE-DIREKTION-STAATSSCHUTZ-UND-NACHRICHTENDIENST-DSN_1638285342479669_v0_l.jpg",
+            "publishedAt": "2021-12-01T04:15:00Z",
+            "content": "They can register or register for their small newspaper user account.\nTheir current cookie settings do not leave this.\nWe use for the user administration Servi... +[452 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Www.sn.at"
+            },
+            "author": "Apa/Dpa",
+            "title": "millions of new yorker Metropolitan Museum - saltburger news",
+            "description": "With a donation of 125 million dollar (about 110 million euro), the prestigious new yorker Metropolitan Museum, led by the Austrian max holistic, aims to expand and fully renovate its exhibition rooms for modern and contemporary art....",
+            "url": "https://www.sn.at/kultur/allgemein/millionen-rekordspende-fuer-new-yorker-metropolitan-museum-113334208",
+            "urlToImage": "https://www.sn.at/millionen-rekordspende-fuer-new-yorker-metropolitan-museum-41-97238997.jpg/size-1280x717/113.334.199",
+            "publishedAt": "2021-12-01T02:22:02Z",
+            "content": "with a donation of 125 million cash (about 110 million euro) the prestigious new yorker Metropolitan Museum, which was led by the Austrian max holistic, aims to display its exhibition rooms for modern and... [+575 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "DIE WELT"
+            },
+            "author": "WELT",
+            "title": "Coronary vaccination obligation: olaf is not wood for infligibility and phasing out of the infancy - the world",
+            "description": "up to night, millions of citizens are to be vaccinated: the expected new federal Chancellor olaf failed, in several interviews, explained his plans for stricter measures and a higher infancy rate. also close to karl Lautbach as Health Minister...",
+            "url": "https://www.welt.de/politik/deutschland/article235374832/Corona-Impfpflicht-Olaf-Scholz-ist-fuer-Impfpflicht-und-Ablauf-des-Impfstatus.html",
+            "urlToImage": "https://img.welt.de/img/politik/deutschland/mobile235384138/5621354487-ci16x9-w1200/Bildschirmfoto-2021-12-01-um-01-34-51.jpg",
+            "publishedAt": "2021-12-01T01:01:02Z",
+            "content": "30 million citizens are to receive either a second, or airborne vaccination, which means that 1,25 million doses are distributed each day. This will be the largest operational we have long been doing... [+6498 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Wien.orf.at"
+            },
+            "author": "ORF.at",
+            "title": "rudolf buchbinder celebrates 75th birthday - ORF.at",
+            "description": "In the age of five years, he has started his studies at the so-called music school, followed by an internationally impressive career as a composer. Today, rudolf buchbinder celebrates its 75th birthday day.",
+            "url": "https://wien.orf.at/stories/3132390/",
+            "urlToImage": "https://ibs.orf.at/wie?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2021%2F49%2F86%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F1160634_master_413386_buchbine.jpg%3Fs%3D4597a286cabc059b1a774a2327ad206638cdd002",
+            "publishedAt": "2021-11-30T23:10:27Z",
+            "content": "the large, musical celebration to the 75er would actually have had a rudolf binder on the past of the likener philharmonists in his second living room, the golden room of Vienna... [+4783 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Puls24.at"
+            },
+            "author": "PULS 24",
+            "title": "primary in abuses against maxwell - puls24",
+            "description": "in the abuse process against ghislaine maxwell, the first main producer has committed against everffrey epsteins ex-partner. The woman told with the name yesn before the new yorker court on the day after the same media reports that they begin to start...",
+            "url": "https://www.puls24.at/news/chronik/hauptzeugin-in-missbrauchsprozess-gegen-maxwell-angehoert/250472",
+            "urlToImage": "https://image.puls24.at/images/facebook/1944003/85950011464083650_BLD_Online.jpg",
+            "publishedAt": "2021-11-30T23:08:15Z",
+            "content": "in the abuse process against ghislaine maxwell, the first main producer has committed against everffrey epsteins ex-partner. The woman with the name yesn told before the new yorker court on the day na... +[1640 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Fuersie.de"
+            },
+            "author": "",
+            "title": "Advent calendars 1: win a Nintendo gaming set - forsie",
+            "description": "behind the 1st door of the advent calendar of fuersie.de, fun for the whole family: together with nintedo, we don't forget among all participants: a set of nintedo switch – the OLED model, a ring-fit adventure and animal crossi...",
+            "url": "https://www.fuersie.de/gewinnspiele/adventskalender-tuerchen-1-gewinnen-sie-ein-nintendo-gaming-set-8228.html",
+            "urlToImage": "https://www.fuersie.de/sites/default/files/styles/facebook/public/2021-11/nintendo-switch.jpg?itok=5kA2TZe-",
+            "publishedAt": "2021-11-30T23:01:00Z",
+            "content": "With the nigelnagelnew nintedo switch (OLED model), all video games are enjoying a new glossary thanks to 7-Customs-OLED screen and narrower. the intense colouring of the image... +[1009 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Tvmovie.de"
+            },
+            "author": "David Albus",
+            "title": "apple macbook per offer: now saves more than 160 euro! - cessplay",
+            "description": "the new macbook per has just presented apples, the current model is now reduced at amazon. All infos to deal",
+            "url": "https://www.tvmovie.de/news/apple-macbook-pro-reduziert-amazon-deal-angebot-sparpreis-3011-121198",
+            "urlToImage": "https://www.tvmovie.de/assets/2021/10/19/84733-macbook-pro-in-silber.jpg",
+            "publishedAt": "2021-11-30T22:20:06Z",
+            "content": "black friday: macbook in offer\non 26 July In October, Apple launched new LCD models. the pre-merger model of the macbook Pro is now reduced in comparison to the uvp: Fü... [+1627 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Kleine Zeitung"
+            },
+            "author": "",
+            "title": "from \"Great Father\"Lied: STS-hardbäcker is holding back to Kickl-Zitat - small newspaper",
+            "description": "gert steinbäcker has held up against the use of the text headlines by Wendel.",
+            "url": "https://www.kleinezeitung.at/politik/innenpolitik/6068441/Aus-GrossvaterLied_STSSteinbaecker-verwahrt-sich-gegen-KicklZitat",
+            "urlToImage": "https://media.kleinezeitung.at/social_klz/images/uploads_520/8/d/9/6068441/KONZERT-BEST-OF-AUSTRIA-MEETS-CLASSIC-STEINBCKER_1638309932851302_v0_l.jpg",
+            "publishedAt": "2021-11-30T22:00:00Z",
+            "content": "gert steinbäcker © (c) APA/HERBERT new growers (herbert NEWBAUER)\ngert steinbäcker, member of the S.T.S., who was dissolved in 2014 and kept up to the apa by the Agencies release... +[1153 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Orf.at"
+            },
+            "author": "ORF.at",
+            "title": "\"Fidelen Mölltaler\" to cov - news - ORF.at",
+            "description": "",
+            "url": "https://orf.at/stories/3238523/",
+            "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+            "publishedAt": "2021-11-30T19:50:18Z",
+            "content": "According to a report by the small newspaper on the monday, the fidelen mölltaler, ludwig died from a coV disease. its former group members g... +[1041 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Diepresse.com"
+            },
+            "author": "Die Presse",
+            "title": "Biontech Chief: Inflammants will be protected at omik - press releases",
+            "description": "It was also hoped that vakzine would also protect against severe disease scourges in other virus variants.",
+            "url": "https://www.diepresse.com/6068421/biontech-chef-impfstoffe-werden-bei-omikron-schutzen",
+            "urlToImage": "https://media.diepresse.com/social_diepresse_nachrichten/images/uploads_1200/8/c/5/6068421/B9358772-9AA1-47E7-9061-FDF953A90F73_v0_h.jpg",
+            "publishedAt": "2021-11-30T19:16:00Z",
+            "content": "It was also hoped that vakzine would also protect against severe disease scourges in other virus variants.\nBiontech Chief ugur was confident that Corona vaccines were also in the F... [+2674 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Tt.com"
+            },
+            "author": "",
+            "title": "Omikron-Fälle in the Netherlands earlier than intended - Tibetan daily newspapers online",
+            "description": "",
+            "url": "https://www.tt.com/artikel/18483032/omikron-faelle-in-den-niederlanden-schon-frueher-als-gedacht",
+            "urlToImage": "",
+            "publishedAt": "2021-11-30T17:32:00Z",
+            "content": "in the Netherlands, the new  Omikron variant of the corona virus has been clearly earlier than previously suspected. as the Dutch Institute for Public Health (rivm) on Tuesday... +[1244 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Tt.com"
+            },
+            "author": "",
+            "title": "jakob pöltl overt rebounds of 2000 rebounds in nba - Tibetan daily newspapers online",
+            "description": "",
+            "url": "https://www.tt.com/artikel/18483051/jakob-poeltl-uebertrifft-marke-von-2-000-rebounds-in-nba",
+            "urlToImage": "",
+            "publishedAt": "2021-11-30T17:32:00Z",
+            "content": "jakob pöltl has overtaken the trade mark of 2000 rebounds in the national basketball association (nba) at the 116:99 of the clean antonio lanes against the Expediatons. [+1671 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Kurier.at"
+            },
+            "author": "Michael Hammerl",
+            "title": "obligation: personal infifference for all unimpeded per post",
+            "description": "As of December, each unimpeded in the Austrian via post should be given an infancy with a concrete date and or t.",
+            "url": "https://kurier.at/politik/inland/impfpflicht-persoenlicher-impftermin-fuer-alle-ungeimpften-per-post/401824495",
+            "urlToImage": "https://image.kurier.at/images/facebook/6562642/20211129-ABD0023-1-1.jpg",
+            "publishedAt": "2021-11-30T17:02:21Z",
+            "content": "How to identify who is unimpeded? The data of the eHealth Act (elga) will be linked to those of social security. This compares... +[1062 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "derStandard.de"
+            },
+            "author": "",
+            "title": "Football World Cup: Austrian women have ambitious - the standard.de",
+            "description": "Austria starts at the donner day against China, others are hosts and Argentina. team leader SEN positiveitiw on corona",
+            "url": "https://www.derstandard.de/story/2000131559107/handball-wm-oesterreichs-frauen-haben-ambitionen",
+            "urlToImage": "https://i.ds.at/4pK5GA/rs:fill:1200:600/plain/2021/11/30/blazek.jpg",
+            "publishedAt": "2021-11-30T16:45:00Z",
+            "content": "torrevieja 12 years ago has managed radio distilles, and now return handballs back to the big stage. from a lack of ambition can go in Spain before the twoch starts... [+673 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Vienna.at"
+            },
+            "author": ".",
+            "title": "\"extremely serious:\" this is the WHO action on omihof.AT.",
+            "description": "Reacting to the reaction of the people to omics: their chef, tedros adhanom ghebreyesus, has underlined that the new versions of the corona virus \"extremely serious\".",
+            "url": "https://www.vienna.at/extrem-ernst-das-ist-die-who-reaktion-auf-omikron/7213173",
+            "urlToImage": "https://www.vienna.at/2021/11/AFP_9PW4P8-4-3-282044363327-4436x3327.jpg",
+            "publishedAt": "2021-11-30T16:11:00Z",
+            "content": "Reacting to the reaction of the people to omics: their chef, tedros adhanom ghebreyesus, has underlined that the new versions of the corona virus \"extremely serious\".\nhe turned to Minist... +[1400 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "derStandard.at"
+            },
+            "author": "",
+            "title": "Project lobau tunnel is out of the standard after 20 years.at",
+            "description": "Transport Minister leonore will present the evaluation result on Wednesdaych. the city looks like a promise for the milliard project. It threatens to take action",
+            "url": "https://www.derstandard.at/story/2000131555372/projekt-lobautunnel-steht-nach-20-jahren-auf-der-kippe",
+            "urlToImage": "https://i.ds.at/zI73_w/rs:fill:1200:600/plain/2021/11/30/lobautunnel.jpg",
+            "publishedAt": "2021-11-30T16:02:00Z",
+            "content": "they decide on how they want to use our own. Unfortunately, it does not allow us to display the appropriate options.\nPlease deactivate all hard and software... [+180 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "STERN.de"
+            },
+            "author": "STERN.de",
+            "title": "to the World AIDS Day: the chronicology of a continuing dead disease - STERN.de",
+            "description": "40 years after its discovery, AIDS continues to be responsible for the hundred thousand dead. However, a feedstock is not in itself.",
+            "url": "https://www.stern.de/gesundheit/zum-welt-aids-tag--die-chronologie-einer-weiterhin-toedlichen-krankheit-30973404.html",
+            "urlToImage": "https://image.stern.de/30973406/t/GW/v4/w1440/r1.7778/-/hiv-aids.jpg",
+            "publishedAt": "2021-11-30T15:29:00Z",
+            "content": "Four decades after its discovery, AIDS continues to be responsible for the tod hundred thousand people. Now, the Corona pandemic could be expected to produce a first vaccination... [+6578 chars]"
+          }
+        ]
+      },
+      {
+        "status": "ok",
+        "topic": "Bangalore",
+        "articles": [
+          {
+            "source": {
+              "id": "reuters",
+              "name": "Reuters"
+            },
+            "author": "",
+            "title": "Bangalore name batting consultant Bangar as new head coach - Reuters",
+            "description": "Royal Challengers Bangalore have promoted batting consultant Sanjay Bangar to the position of head coach for the next two years, Director of Cricket Operations Mike Hesson said on Tuesday.",
+            "url": "https://www.reuters.com/world/india/bangalore-name-batting-consultant-bangar-new-head-coach-2021-11-09/",
+            "urlToImage": "https://www.reuters.com/resizer/q2VOdmjNBbDBfsusNGf0A_pJEYg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZFPDWKINPFI3DBJC2BXAR4TNAY.jpg",
+            "publishedAt": "2021-11-09T07:45:00Z",
+            "content": "Cricket - India Press Conference - Emerald Headingley, Headingley, Britain - July 16, 2018 India batting coach Sanjay Bangar during a press conference Action Images via Reuters/Ed SykesNov 9 (Reuters… [+1438 chars]"
+          },
+          {
+            "source": {
+              "id": "reuters",
+              "name": "Reuters"
+            },
+            "author": "",
+            "title": "South Africa's AB de Villiers has decided to retire from all cricket - Reuters",
+            "description": "Former South Africa international AB de Villiers said he has decided to retire from all forms of the game, bringing to an end a 17-year career.",
+            "url": "https://www.reuters.com/lifestyle/sports/south-africas-ab-de-villiers-has-decided-retire-all-cricket-2021-11-19/",
+            "urlToImage": "https://www.reuters.com/resizer/YB9xp7EkvXzAIORYpaDJBsx8v6c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BGE5X3CLUJLXRFQQLC7JFQNJLU.jpg",
+            "publishedAt": "2021-11-19T07:58:00Z",
+            "content": "Nov 19 (Reuters) - Former South Africa international AB de Villiers said he has decided to retire from all forms of the game, bringing to an end a 17-year career.\r\nDe Villiers had retired from all in… [+1303 chars]"
+          },
+          {
+            "source": {
+              "id": "reuters",
+              "name": "Reuters"
+            },
+            "author": "",
+            "title": "EV maker Rivian set for high-profile market debut after mammoth IPO - Reuters",
+            "description": "Amazon-backed electric vehicle maker Rivian Automotive Inc \u003ca href=\"https://www.reuters.com/companies/RIVN.O\" target=\"_blank\"\u003e(RIVN.O)\u003c/a\u003e is set for a highly anticipated Nasdaq debut on Wednesday, after raising nearly $12 billion in an upsized offer that mad…",
+            "url": "https://www.reuters.com/business/autos-transportation/ev-maker-rivian-set-high-profile-market-debut-after-mammoth-ipo-2021-11-10/",
+            "urlToImage": "https://www.reuters.com/resizer/oU_2f5cn4jnBL_rYP3LTkeYGS9g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6ULKOPZG3RMBLO75EAU7YHLUGA.jpg",
+            "publishedAt": "2021-11-10T13:08:00Z",
+            "content": "Nov 10 (Reuters) - Amazon-backed electric vehicle maker Rivian Automotive Inc (RIVN.O) is set for a highly anticipated Nasdaq debut on Wednesday, after raising nearly $12 billion in an upsized offer … [+1617 chars]"
+          },
+          {
+            "source": {
+              "id": "reuters",
+              "name": "Reuters"
+            },
+            "author": "",
+            "title": "Cryptocurrency exchange Coinstore enters India despite pending curbs on trade - Reuters",
+            "description": "Singapore-based virtual currency exchange Coinstore has begun operations in India at a time when the Indian government is preparing legislation to effectively bar most private cryptocurrencies.",
+            "url": "https://www.reuters.com/technology/cryptocurrency-exchange-coinstore-enters-india-despite-pending-curbs-trade-2021-11-28/",
+            "urlToImage": "https://www.reuters.com/resizer/_Z9ZF7Q-3i9FcZoXjxUCdwfGH98=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E7ACDGJYVVJ6NPDMTSFOYWYYU4.jpg",
+            "publishedAt": "2021-11-28T11:19:00Z",
+            "content": "MUMBAI, Nov 28 (Reuters) - Singapore-based virtual currency exchange Coinstore has begun operations in India at a time when the Indian government is preparing legislation to effectively bar most priv… [+2074 chars]"
+          },
+          {
+            "source": {
+              "id": "cnn",
+              "name": "CNN"
+            },
+            "author": "By Alisha Ebrahimji, CNN",
+            "title": "Sleeping in cars, teaching on Zoom and several cancellations: These travelers are stranded over restrictions tied to the Omicron variant",
+            "description": "When Mick Sturla left for vacation to South Africa, he had no idea his eight-day stay at a safari lodge would turn into a mad dash to get back home to the United Kingdom and involve sleeping in a rental car underneath an airport terminal due to new and evolvi…",
+            "url": "https://www.cnn.com/travel/article/stranded-travelers-omicron-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211129115848-06-stranded-travelers-omicron-restricted-super-tease.jpg",
+            "publishedAt": "2021-11-29T18:35:43Z",
+            "content": "(CNN) When Mick Sturla left for vacation to South Africa, he had no idea his eight-day stay at a safari lodge would turn into a mad dash to get back home to the United Kingdom and involve sleeping in… [+8001 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Phys.Org"
+            },
+            "author": "Science X staff",
+            "title": "Flooding in India's Bangalore after heavy rains",
+            "description": "Indian tech hub Bangalore has been inundated by floodwater after torrential downpours that have killed scores of people across the country's south in the past few weeks.",
+            "url": "https://phys.org/news/2021-11-india-bangalore-heavy.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/a-man-wades-through-a-1.jpg",
+            "publishedAt": "2021-11-23T09:11:14Z",
+            "content": "Indian tech hub Bangalore has been inundated by floodwater after torrential downpours that have killed scores of people across the country's south in the past few weeks.\r\nLakes dotted around the city… [+1506 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Indian Express"
+            },
+            "author": "Careers Desk",
+            "title": "IIM Bangalore records 100% summer internship placement",
+            "description": "Consulting companies made the highest offers (181), followed by  Sales and Marketing (99), Finance (84), E-commerce, and Operations (42), IT product management (41) among other sectors.",
+            "url": "https://indianexpress.com/article/jobs/iim-bangalore-records-100-summer-internship-placement/",
+            "urlToImage": "https://images.indianexpress.com/2019/01/IIMB1200.jpg",
+            "publishedAt": "2021-11-17T09:36:41Z",
+            "content": "The Indian Institute of Management Bangalore (IIMB) successfully conducted summer placements for the PGP and PGP-BA Class of 2021-23 on Tuesday with 542 offers made to 513 students. All students who … [+725 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Indian Express"
+            },
+            "author": "PTI",
+            "title": "Meet Karnataka’s billionaire election candidate with Rs1,744 crore assets",
+            "description": "The 54-year old businessman is contesting from the Bangalore Urban local authorities' constituency.",
+            "url": "https://indianexpress.com/article/cities/bangalore/billionaire-candidate-legislative-council-polls-yousuf-sharif-7640624/",
+            "urlToImage": "https://images.indianexpress.com/2021/11/inc-karnataka.jpg",
+            "publishedAt": "2021-11-25T07:04:19Z",
+            "content": "He may have been a little known name in the party circles but Congress’ Yousuf Sharif has now got all the attention on him, thanks to a declared family worth of over Rs 1,000 crore, made in his poll … [+2901 chars]"
+          },
+          {
+            "source": {
+              "id": "al-jazeera-english",
+              "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Indian actor Puneeth Rajkumar’s death spurs eye donation pledges",
+            "description": "Doctors say more than 7,000 people committed themselves to post-mortem eye donations since film star's death last month.",
+            "url": "https://www.aljazeera.com/news/2021/11/23/india-kannada-actor-puneeth-rajkumar-death-eye-donation",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/11/000_9RW2XV.jpg?resize=1200%2C630",
+            "publishedAt": "2021-11-23T05:44:22Z",
+            "content": "Mourning fans of beloved Indian film star Puneeth Rajkumar are pledging to give up their eyes after the actors untimely death brought his post-mortem organ donation into focus.\r\nThe Powerstar so name… [+3069 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Indian Express"
+            },
+            "author": "Express News Service",
+            "title": "Karnataka government lifts night curfew after Covid-19 cases dip in state",
+            "description": "Bangalore News: The government has also allowed the resumption of horse racing.",
+            "url": "https://indianexpress.com/article/cities/bangalore/karnataka-government-lifts-night-curfew-after-covid-19-cases-dip-7609213/",
+            "urlToImage": "https://images.indianexpress.com/2021/11/Bengaluru-2.jpg",
+            "publishedAt": "2021-11-05T15:34:40Z",
+            "content": "In view of a dip in the number of Covid-19 cases, the state government withdrew the daily night curfew imposed from 10 pm to 5 am.Night curfew which is being imposed from 10 pm to 5 am is herewith wi… [+1482 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Indian Express"
+            },
+            "author": "Express News Service",
+            "title": "Bengaluru: After residents’ push, BBMP removes sandbags blocking sewage diversion channel at Doddakallasandra Lake",
+            "description": "Bangalore News: The blockade was leading to untreated water entering the wetland area of the lake.",
+            "url": "https://indianexpress.com/article/cities/bangalore/bengaluru-bbmp-sandbags-blocking-sewage-doddakallasandra-lake-7629228/",
+            "urlToImage": "https://images.indianexpress.com/2021/11/Lake.jpg",
+            "publishedAt": "2021-11-18T08:42:03Z",
+            "content": "After residents and lake conservationists found sewage water was entering the wetland area of the Doddakallasandra Lake due to a blockade with sandbags in the diversion channel, they informed Bruhat … [+2511 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Scientific American"
+            },
+            "author": "Saugat Bolakhe",
+            "title": "The Surprising Architecture in Bees' Honeycombs",
+            "description": "The insects’ hives are more complicated than researchers thought\n\n-- Read more on ScientificAmerican.com",
+            "url": "https://www.scientificamerican.com/article/the-surprising-architecture-in-bees-honeycombs/",
+            "urlToImage": "https://static.scientificamerican.com/sciam/cache/file/1E7D6B5B-FB8F-4FF1-A895AB2BA0256EE2.jpg",
+            "publishedAt": "2021-11-29T11:45:00Z",
+            "content": "Charles Darwin described bees' ability to build perfect honeycombs as “the most wonderful of all known instincts.” Each hexagonal cell is so precisely constructed and so neatly arrayed that a comb is… [+2306 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Indian Express"
+            },
+            "author": "Ralph Alex Arakal",
+            "title": "Bengaluru students develop ‘smart’ wheelchair that can be controlled by eye movement",
+            "description": "Bangalore news: The wheelchair was built by a team comprising Divya M, Kavya G P and D Lakshmi Soumya from MVJ College of Engineering.",
+            "url": "https://indianexpress.com/article/cities/bangalore/bengaluru-students-develop-smart-wheelchair-7637875/",
+            "urlToImage": "https://images.indianexpress.com/2021/11/wheelchair1.png",
+            "publishedAt": "2021-11-23T14:46:36Z",
+            "content": "In an innovation expected to be beneficial to the elderly and the specially-abled with locomotor issues, a team of engineering students from Bengaluru has developed a smart wheelchair that can be con… [+2186 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Indian Express"
+            },
+            "author": "Express News Service",
+            "title": "Bengaluru transport body to induct 565 BSVI buses by February 2022",
+            "description": "Bangalore news: Officials said that BMTC will be the first corporation in the state to introduce BSVI buses.",
+            "url": "https://indianexpress.com/article/cities/bangalore/bengaluru-565-bsvi-buses-by-february-7621316/",
+            "urlToImage": "https://images.indianexpress.com/2021/11/bangalore-bus22.jpg",
+            "publishedAt": "2021-11-13T12:48:43Z",
+            "content": "Bangalore Metropolitan Transport Corporation (BMTC) will induct 565 environment-friendly BSVI buses by February 2022. BMTC is procuring the vehicles with the support of the Karnataka government.BMTC … [+1515 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Indian Express"
+            },
+            "author": "Express Web Desk",
+            "title": "Bangalore News Live: Karnataka slashes petrol and diesel prices by Rs. 7 a litre",
+            "description": "Bangalore latest Updates: Petrol will now cost approximately Rs 95.90 a litre and diesel Rs 81.5 in Karnataka.",
+            "url": "https://indianexpress.com/article/bangalore/bengaluru-karnataka-news-live-updates-covid-19-basavaraj-bommai-7606941/",
+            "urlToImage": "https://images.indianexpress.com/2021/11/petrol-diesel.jpg",
+            "publishedAt": "2021-11-04T05:03:28Z",
+            "content": "Here are a few contacts that might come in handy for you in emergency situations:\r\nCOVID-19 related queries / emergencies / clarifications: 104 (toll free); +91-80-4684-8600/6669-2000 | Home Quaranti… [+240 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Indian Express"
+            },
+            "author": "Express News Service",
+            "title": "Heavy rains in Karnataka drive up vegetable prices in Bengaluru",
+            "description": "Bangalore news: The vegetables in Bengaluru mostly arrive from Kolar, Chikkaballapur, Bengaluru Rural, Ramanagara and Tumakuru, the districts most affected by the recent rains.",
+            "url": "https://indianexpress.com/article/cities/bangalore/karnataka-rains-bengaluru-vegetable-prices-7637657/",
+            "urlToImage": "https://images.indianexpress.com/2021/11/PTI11_22_2021_000109A.jpg",
+            "publishedAt": "2021-11-23T12:57:38Z",
+            "content": "Heavy rains in parts of Karnataka over the last week have driven up vegetable prices in Bengaluru with most vegetables now costing over Rs 50 per kg. The incessant downpour has also destroyed crops i… [+1584 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Indian Express"
+            },
+            "author": "Express News Service",
+            "title": "Don’t concretize Chamundi hills: Sahitya Akademi award winner SL Bhyrappa tells PM Modi",
+            "description": "Bangalore news: SL Bhyrappa’s letter to PM Modi comes after Chamundi hills reported at least four landslides in less than a month.",
+            "url": "https://indianexpress.com/article/cities/bangalore/chamundi-hills-sahitya-akademi-award-winner-sl-bhyrappa-tells-pm-modi-7637933/",
+            "urlToImage": "https://images.indianexpress.com/2021/11/author22.jpg",
+            "publishedAt": "2021-11-23T15:50:54Z",
+            "content": "Kannada novelist and Sahitya Akademi award winner SL Bhyrappa has written a letter to Prime Minister Narendra Modi requesting him to save Chamundi hills in Mysuru from concretization. SL Bhyrappas le… [+1653 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Indian Express"
+            },
+            "author": "Express News Service",
+            "title": "Bengaluru: ACB raid on ex-project director of Nirmithi Kendra finds 1,408% disproportionate assets",
+            "description": "Bangalore news: The ACB in its statement said they are continuing the probe as they are yet to dig out more information about the assets owned by Vasudev.",
+            "url": "https://indianexpress.com/article/cities/bangalore/bengaluru-acb-raid-on-ex-project-director-nirmithi-kendra-disproportionate-assets-7644857/",
+            "urlToImage": "https://images.indianexpress.com/2021/11/banner-11.jpg",
+            "publishedAt": "2021-11-27T15:58:41Z",
+            "content": "The raid on Vasudev R N, the former Project Director of Nirmithi Kendra in Bengaluru Rural, stunned the officials of the Anti-Corruption Bureau (ACB) after they found he owns 28 houses with most of t… [+687 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Indian Express"
+            },
+            "author": "Kiran Parashar",
+            "title": "Bengaluru: Hand amputated after torture in police custody, alleges 22-year-old; probe ordered",
+            "description": "Bangalore news: Deputy Commissioner of Police (Whitefield) said he has sought a report from the Assistant Commissioner of Police (ACP) in the incident in Varthur jurisdiction.",
+            "url": "https://indianexpress.com/article/cities/bangalore/bengaluru-hand-amputated-torture-police-custody-alleges-22-year-old-probe-7649435/",
+            "urlToImage": "https://images.indianexpress.com/2021/11/bengaluru-hand-amputated.jpg",
+            "publishedAt": "2021-11-30T14:10:45Z",
+            "content": "A 22-year-old youth in Bengaluru has lost his right arm in a case of alleged police brutality. The youth, who was allegedly detained illegally for three days in the Varthur police station in connecti… [+3250 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Wikipedia.org"
+            },
+            "author": "Contributors to Wikimedia projects",
+            "title": "Mysorean Rockets",
+            "description": "Comments",
+            "url": "https://en.wikipedia.org/wiki/Mysorean_rockets",
+            "urlToImage": "",
+            "publishedAt": "2021-11-02T04:46:05Z",
+            "content": "Mysorean rockets were an Indianmilitaryweapon, the first iron-cased rockets successfully deployed for military use. The Mysorean army, under Hyder Ali and his son Tipu Sultan, used the rockets effect… [+10865 chars]"
+          }
+        ]
+      },
+      {
+        "status": "ok",
+        "topic": "Innsbruck",
+        "articles": [
+          {
+            "source": {
+              "id": "reuters",
+              "name": "Reuters"
+            },
+            "author": "",
+            "title": "Britishtain beat france, Caba de minaur wins at davis cup - reuters",
+            "description": "Britishtain beat france 20 in their opening ceremony da cup cages innsbruck, austria to move top of the group after dan evans and cameron norrie wins their singles rubbers in easy set on saturday.",
+            "url": "https://www.reuters.com/lifestyle/sports/britain-beat-france-australian-de-minaur-wins-davis-cup-2021-11-27/",
+            "urlToImage": "https://www.reuters.com/resizer/wAjcNwbmgyQLS26PVrVn0c_mIGw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QBHMJCACHZO4NB7F3X3C2ZZPNA.jpg",
+            "publishedAt": "2021-11-27T15:38:00Z",
+            "content": "nov 27 (reuters) - Britishtain beat france 2-0 in their opening-up davis stock innsbruck, austria to move top of the group after the evans and cameron norrie wins their singles currencys in easy ... [+2027 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Guardian"
+            },
+            "author": "Tumaini Carayol",
+            "title": "davis cup: norrie and evans lead great Britain past france in empty arena",
+            "description": "\u003cul\u003eDan evans beats adrian mannarino to kickstart group fall/li [1] English no 1 norrie victorys Arthur rigorously after the daily break [/li\u003eThe abject of sporting events are hampered during Austria’s return to may not be th...",
+            "url": "https://amp.theguardian.com/sport/2021/nov/27/cameron-norrie-wraps-up-great-britains-davis-cup-win-over-france",
+            "urlToImage": "https://i.guim.co.uk/img/media/76d7204ff33ed75ef81984dfab7878a73203571a/144_219_3033_1820/master/3033.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=2b6f3833c6e7c7804b96cd7ffd196f47",
+            "publishedAt": "2021-11-27T14:52:51Z",
+            "content": "the off the atmosphere for any davis cup, but in their first appearance at the end of 2021... [+3888 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Guardian"
+            },
+            "author": "Tumaini Carayol",
+            "title": "lleyton hewitt slams organised for ‘selling soul’ of davis cup",
+            "description": "\u003cul\u003e[li\u003eAbu Iabi move would ‘kill’ contest says former world no 1 \u003c/li\u003e Great Britain look to take the break to the take-out rounds [/li +/ul\u003eLleyton hewitt has expressed his dismay at the state of the davis cup following the news of the event ...",
+            "url": "https://amp.theguardian.com/sport/2021/nov/26/lleyton-hewitt-slams-organisers-for-selling-soul-of-davis-cup",
+            "urlToImage": "https://i.guim.co.uk/img/media/7e5cf176184a5a602cede1ecb70ef5debaa2f6bd/0_186_5568_3341/master/5568.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=7954e71c6deeee026721fe92c51ef559",
+            "publishedAt": "2021-11-26T16:47:24Z",
+            "content": "lleyton hewitt has expressed his dismay at the state of the davis cup following the news of the contests could be held in abu dabi from 2022. hewitt, the master of the Sahara team, said the... +[3425 chars]"
+          },
+          {
+            "source": {
+              "id": "bleacher-report",
+              "name": "Bleacher Report"
+            },
+            "author": "Mike Chiari",
+            "title": "davis Cup Finals 2021 Results: thursday’s round robin scores and method",
+            "description": "the 2021 davis Cup Finals Gothic underway thursday with group Days Relations in Madagascar; innsbruck, austria; and turin, italy. sweden, croatia and france were all.",
+            "url": "https://bleacherreport.com/articles/10019149-davis-cup-finals-2021-results-thursdays-round-robin-scores-and-reaction",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/v1637869421/w7wu4espq4idpejxjqyn.jpg",
+            "publishedAt": "2021-11-25T23:25:36Z",
+            "content": "stefano Guidi/Getty images\nthe 2021 davis Cup Finals Go underway thursday with group Days Relations in Madagascar; innsbruck, austria; and turin, Italy.\nsweden, croatia and france were all made, mea... +[9124 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Science Daily"
+            },
+            "author": "",
+            "title": "collapse of ancient liangzhu culture caused by climate change",
+            "description": "the liangzhustor site in eastern China is considered one of the most significant testimonies of early Chinese advanced development. More than 5,000 years ago ago, the city had already been on beautiful water...",
+            "url": "https://www.sciencedaily.com/releases/2021/11/211124153813.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2021-11-24T20:38:13Z",
+            "content": "as \"china's venice of the stone age\", the liangzhustor site in eastern China is considered one of the most significant testimonies of early Chinese advanced civilisation. more than... +[3961 chars]"
+          },
+          {
+            "source": {
+              "id": "reuters",
+              "name": "Reuters"
+            },
+            "author": "",
+            "title": "Event for 2022 davis cup finals to be announced next week - itf - reuters",
+            "description": "the international tennis champion (itf) to be confused with the host cities for next year’s davis cup finals before the end of this year’s event which diet on thursday.",
+            "url": "https://www.reuters.com/lifestyle/sports/venue-2022-davis-cup-finals-be-announced-next-week-itf-2021-11-24/",
+            "urlToImage": "https://www.reuters.com/resizer/nniVlPkHKaTN_XLmYbqCzxALvCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q7JYJVHPQRKBFMTPWMGGNJXQIE.jpg",
+            "publishedAt": "2021-11-24T19:31:00Z",
+            "content": "london, nov 24 (reuters) - the international tennis federation (itf) to accept the host cities for next year’s davis cup finals before the end of this year’s event which die on Thursday. +[3095 chars]"
+          },
+          {
+            "source": {
+              "id": "reuters",
+              "name": "Reuters"
+            },
+            "author": "",
+            "title": "Serbia2,00 by 2019 davis cup Heartbreak, say djokovic - reuters",
+            "description": "The world number of one novak djokovic says serbia wants to use the bitter memory of her davis cups final victory in 2019 as an motivation to the stadium for a second time this year.",
+            "url": "https://www.reuters.com/lifestyle/sports/serbia-motivated-by-2019-davis-cup-heartbreak-says-djokovic-2021-11-24/",
+            "urlToImage": "https://www.reuters.com/resizer/Xs1dT5b7bemU2zFpJmcoKWQ0Ahs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P3MP2DIFRNP6FDKJJ26B3NM3ZM.jpg",
+            "publishedAt": "2021-11-24T16:27:00Z",
+            "content": "nov 24 (reuters) - world one novak djokovic says serbia wants to use the bitter memory of her davis cups final victory in 2019 as motivation to lift the stadium for a second time this year.\nat th... [+2876 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "tagesschau.de"
+            },
+            "author": "tagesschau",
+            "title": "Investigations after the Corona outbreak in ischgl",
+            "description": "During the victim's discussions, the prosecutor's office has closed its investigations into the chaos after the ischgler Corona outbreak: there has been no fault.",
+            "url": "https://www.tagesschau.de/ausland/ischgl-ermittlungen-eingestellt-101.html",
+            "urlToImage": "https://www.tagesschau.de/multimedia/bilder/ischgl-117~_v-original.jpg",
+            "publishedAt": "2021-11-24T13:32:01Z",
+            "content": "During the victim's discussions, the prosecutor's office has closed its investigations into the chaos after the ischgler Corona outbreak: it has no debtful stand... [+2814 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Tasnim News Agency"
+            },
+            "author": "Tasnim News Agency",
+            "title": "Scientists' perception of a quantum effect atoms out of syncing light - tasnim news agency",
+            "description": "\u003col\u003e[li\u003eScientists a quantum effect ban atoms from curing Lightnim news agency\n\u003c/li\u003eClever physics experiment that produces “Something from Nothing” SciTechDaily\n\u003c/li\u003eEconomicists Look a quantum effect that blocks ato...",
+            "url": "https://www.tasnimnews.com/en/news/2021/11/22/2612763/scientists-detect-a-quantum-effect-blocking-atoms-from-scattering-light",
+            "urlToImage": "https://www.tasnimnews.com/Static/img/tasnim-main-logo.jpg",
+            "publishedAt": "2021-11-22T14:30:00Z",
+            "content": "Decorated, in new tests, atoms boxed in by tasting conditions have no way to switch up their quantum states. that limitation means the atoms dont pH light as they would normally be three teams... +[3909 chars]"
+          },
+          {
+            "source": {
+              "id": "die-zeit",
+              "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: News -",
+            "title": "World Cup innsbruck: Fortunepilot friedrich dominates the seasonal intact - note it is",
+            "description": "",
+            "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fnews%2F2021-11%2F21%2Fbobpilot-friedrich-dominiert-den-saisonauftakt-nolte-siegt",
+            "urlToImage": "",
+            "publishedAt": "2021-11-21T15:17:32Z",
+            "content": "when browsing with ads:\nWe collect personal data and so do it to third party termination\nthat help us improve and finance our digital content. Some of the information on your device, ... [+732 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "As.com"
+            },
+            "author": "Jesús Mínguez",
+            "title": "españa se concentra y en innsbruck nogerá público",
+            "description": "alcaraz, buildsista y carreño se juntarán hoy en Madrid a la espera de feliciano y granollers. el repunte de covid en austria exige medidas drugásticas.",
+            "url": "https://as.com/tenis/2021/11/19/copa_davis/1637353893_924257.html",
+            "urlToImage": "https://as01.epimg.net/tenis/imagenes/2021/11/19/copa_davis/1637353893_924257_1637354001_noticia_normal.jpg",
+            "publishedAt": "2021-11-19T20:36:06Z",
+            "content": "españa, genuine campeona de la copa davis, inicia la cuenta atrás para la defensa del título. elmobilo se concentra este sábado en Madrid, donde jugará en el  welcomedpo a frente a ecuador (viernes 26) y R... [+789 chars]"
+          },
+          {
+            "source": {
+              "id": "reuters",
+              "name": "Reuters"
+            },
+            "author": "",
+            "title": "davis cup to go ahead in innsbruck, the chapter of new archivndown - Organiss - reuters",
+            "description": "Next week's davis Cup Finals innsbruck will be able to attract a COVID-19 nationaldown due to start on monday, organised crime said on Friday.",
+            "url": "https://www.reuters.com/lifestyle/sports/davis-cup-go-ahead-innsbruck-despite-new-austrian-lockdown-organisers-2021-11-19/",
+            "urlToImage": "https://www.reuters.com/resizer/fiUmZSPEjscvKQSlt1Nl3d2nvEg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PJ3JPLXS3NMWTODVHAGAIDHXI4.jpg",
+            "publishedAt": "2021-11-19T13:24:00Z",
+            "content": "nov 19 (reuters) - next week's davis Cup Finals Relations innsbruck will be ahead of the chapter of a COVID-19 national attractdown due to start on monday, organised on Friday.\ninnsbruck is one of three citi... [+976 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "As.com"
+            },
+            "author": "Jorge Noguera",
+            "title": "pistoletazo de salida a la davis: \"va a estar muy abateda\"",
+            "description": "que acogerán Madrid, innsbruck y turín, searon este martes en el palacio de cristal de aralluela con la presencia de las  Autoridades inplicadasdas.",
+            "url": "https://as.com/tenis/2021/11/16/copa_davis/1637087910_591166.html",
+            "urlToImage": "https://as01.epimg.net/tenis/imagenes/2021/11/16/copa_davis/1637087910_591166_1637088021_noticia_normal.jpg",
+            "publishedAt": "2021-11-16T18:43:37Z",
+            "content": "\"madrid está lista,\" tounció el alcalde de la capital, josé luis Martínez-Almeida, al público congregado en el palacio de cristal de ar wholeuela este martes. Lista para acoger de nuevo las final de ... +[2216 chars]"
+          },
+          {
+            "source": {
+              "id": "le-monde",
+              "name": "Le Monde"
+            },
+            "author": "Aude Lasjaunias",
+            "title": "Soulsleigh: le rêve olympique des Chemineuses margot boch et carla sénéchal",
+            "description": "avec la coupe du monde d’Innsbruck, en autriche. pour la première fois, un équipage féminin pourrait représenter la france aux jo.",
+            "url": "https://www.lemonde.fr/sport/article/2021/11/15/le-reve-olympique-des-bobeuses-margot-boch-et-carla-senechal_6102090_3242.html",
+            "urlToImage": "https://img.lemde.fr/2021/11/10/330/0/4000/2000/1440/720/60/0/584d21d_844679500-000-9286j7.jpg",
+            "publishedAt": "2021-11-15T06:00:28Z",
+            "content": "Margot boch (à gauche) et carla sénéchal, à la plagne (savoie) en décembre 2020. Philippe desmazes / afp\nenfants, margot boch et carla sénéchal ne se connaissaient pas, mais elles en partageaient un r... [+2581 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "New York Times"
+            },
+            "author": "The New York Times",
+            "title": "Colourado wants to offer steroids for all adults",
+            "description": "the dutch move, affect both vaccinated and unvaccinated people, come as an event level not seen since early in the pandemic. in colorado,w. jared polis said that all adults in the would be eligible for ice cream.",
+            "url": "https://www.nytimes.com/live/2021/11/12/world/covid-vaccine-boosters-mandates",
+            "urlToImage": "https://static01.nyt.com/images/2021/11/12/world/12virus-briefing-netherlands/12virus-briefing-netherlands-facebookJumbo.jpg",
+            "publishedAt": "2021-11-12T11:00:11Z",
+            "content": "the netherlands government plan to install a three-week partial capdown to open a fourth wave of covid trading amid a breath in case numbers, the public broadcast nos reported on Friday.\nIt... [+7658 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "derStandard.at"
+            },
+            "author": "",
+            "title": "innsbruck, it also continues in Villach",
+            "description": "Tibetans with sevent theyg in sequence, caps with a fifth success – clear them for saltburg and graz",
+            "url": "https://www.derstandard.at/story/2000130953884/innsbruck-setzte-siegesserie-auch-in-villach-fort",
+            "urlToImage": "https://i.ds.at/B8mtNA/rs:fill:1200:600/plain/2021/11/05/Eis.jpg",
+            "publishedAt": "2021-11-05T21:42:42Z",
+            "content": "they decide on how they want to use our own. Unfortunately, it does not allow us to display the appropriate options.\nPlease deactivate all hard and software... [+180 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "The Guardian"
+            },
+            "author": "Rupert Mellor",
+            "title": "New routes to 60 tourists in france, austria, italy and more",
+            "description": "the new car eurostar to the alps is popular for package travel but skiers can now reach the reach of local areas by train from the uk.",
+            "url": "https://amp.theguardian.com/travel/2021/nov/05/ski-trains-from-london-new-routes-60-resorts-france-austria-italy-more",
+            "urlToImage": "https://i.guim.co.uk/img/media/37df14dd077fd5e5a865dfbfae5e79dd07636e39/0_192_5760_3456/master/5760.jpg?width=1200\u0026height=630\u0026quality=85\u0026auto=format\u0026fit=crop\u0026overlay-align=bottom%2Cleft\u0026overlay-width=100p\u0026overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc\u0026enable=upscale\u0026s=bb7fe1a857c6461685985f821df9abe3",
+            "publishedAt": "2021-11-05T11:00:02Z",
+            "content": "As the snow sports travel industry cuts off its covid lines, rail routes to the mountains are a surprise renaissance, with more than 60 tourists in france, switzerland, austria and italy now ... [+6408 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "derStandard.at"
+            },
+            "author": "",
+            "title": "pilnacek appeals to the public prosecutor",
+            "description": "the dismissal of the prosecutor’s office inbruck has been declared to be in favour of the suspended Justice Chiefs.",
+            "url": "https://www.derstandard.at/story/2000130905910/staatsanwaltschaft-beruft-gegen-freispruch-von-pilnacek",
+            "urlToImage": "https://i.ds.at/XoEFlQ/rs:fill:1200:600/plain/2021/11/04/Neubauer-001.jpg",
+            "publishedAt": "2021-11-04T11:02:30Z",
+            "content": "they decide on how they want to use our own. Unfortunately, it does not allow us to display the appropriate options.\nPlease deactivate all hard and software... [+180 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "Calciomercato.com"
+            },
+            "author": "Calciomercato.com",
+            "title": "ventoni cguerrowski tirol. la juve lo segue da lontano",
+            "description": "wattens \u0026egrave; Un Piccolo comune di poco meno di 8mila abitanti nel distretto di Innsbruck-Land, tirolo. 13 km a est di innsbruck, la citt \u0026agrave; \u0026egrave; famosa piugrave; by il museo aziendale della",
+            "url": "https://www.calciomercato.com/news/vrioni-alla-conquista-dell-austria-lo-swarowski-tirol-ha-il-suo--65145",
+            "urlToImage": "https://cdn.calciomercato.com/images/2021-11/vrioni.albania.controllo.750x450.jpg",
+            "publishedAt": "2021-11-03T14:21:30Z",
+            "content": "wattens è un piccolo comune di poco meno di 8mila abitanti nel distretto di Innsbruck-Land, Tibetan. 13 km a est di innsbruck, la città è famosa più per il museo aziendale della cristalleria Swarovski... +[1593 chars]"
+          },
+          {
+            "source": {
+              "id": "",
+              "name": "derStandard.at"
+            },
+            "author": "",
+            "title": "austria and wsg Tibetan segregate in performance 1:1",
+            "description": "Despite wattener duct by vrioni for 1:1 innsbruck,",
+            "url": "https://www.derstandard.at/story/2000130826620/austria-rettet-punkt-gegegn-wsg-tirol",
+            "urlToImage": "https://i.ds.at/nqjU7g/rs:fill:1200:600/plain/2021/10/31/austria.jpg",
+            "publishedAt": "2021-10-31T15:26:07Z",
+            "content": "they decide on how they want to use our own. Unfortunately, it does not allow us to display the appropriate options.\nPlease deactivate all hard and software... [+180 chars]"
+          }
+        ]
+      }
+    ]
+  },
+  "exchange_result": {
+    "success": true,
+    "timestamp": 1638344943,
+    "base": "EUR",
+    "date": "2021-12-01",
+    "rates": {
+      "BTC": 0.000019774452,
+      "INR": 84.916295
+    }
+  }
+}

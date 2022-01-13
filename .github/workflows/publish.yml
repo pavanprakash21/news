@@ -58,9 +58,11 @@ jobs:
           FOLDER: frontend/out
           CLEAN: true
 
-      - id: slack-message
+      - run: echo news_slug=$(date +"%Y-%m-%d") >> $GITHUB_ENV
+
+      - id: send-slack-message
         name: Inform news channel on slack
         uses: GoldenspearLLC/slack-chat-postmessage@v3
         with:
           channel: "#news"
-          text: News published for today. Check it out here https://pavanprakash21.github.io/news/
+          text: "News published for today. Check it out here https://pavanprakash21.github.io/news/${{ env.news_slug }}"
